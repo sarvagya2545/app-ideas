@@ -21,6 +21,8 @@ The border-radius property can have multiple values changed. Preview how the sha
 
 ## Example projects
 
+-   [Border-radius Previewer with html, css and js](https://github.com/edniltonmatos/desafios-beginner/tree/main/border-radius)
+    -   [demo](https://ednilton-matos-border-radius.netlify.app/)
 -   [9elements Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 -   [Border Radius](https://border-radius.com/)
 -   [CSS Gradient Border](https://codepen.io/thebabydino/pen/zbqPVd)
