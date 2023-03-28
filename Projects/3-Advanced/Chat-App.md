@@ -22,7 +22,7 @@ As a MVP(Minimum Viable Product) you can focus on building the Chat interface. R
 -   [ ] Users can chat in private
 -   [ ] Users can join `channels` on specific topics
 -   [ ] When another user is typing the message, show that someone is typing to everyone in the room
--   [ ] Show when a user is online or offline
+-   [ ] Show whether an user is online or offline
 
 ## Useful links and resources
 
